@@ -1,0 +1,4 @@
+E:\Dev\Assemble\softgetwin\src-cs\sft-get\sft-get\bin\Release\sft-get.exe
+E:\Dev\Assemble\softgetwin\src-cs\sft-get\sft-get\bin\Release\sft-get.pdb
+E:\Dev\Assemble\softgetwin\src-cs\sft-get\sft-get\obj\x86\Release\sft-get.exe
+E:\Dev\Assemble\softgetwin\src-cs\sft-get\sft-get\obj\x86\Release\sft-get.pdb
