@@ -1,0 +1,4 @@
+这些 C# 源代码需要通过 Visual Studio 编译。
+下列是需要使用的 VS 版本。
+项目               VS 版本           .NET 目标版本
+sft-get            VC# Express 2010  Framework 4
